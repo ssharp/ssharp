@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssharp
 - 👀 I’m interested in video games, astronomy, and cooking.
-- 🌱 I’m currently software engineering.
+- 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me TBD
 - 😄 Pronouns: He/Him
