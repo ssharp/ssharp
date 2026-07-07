@@ -8,8 +8,7 @@
 
 Hello, I am Seth SHarp. I'm a developer interested in web apps, open source projects, and learning new technologies.
 
-<details>
-<summary>Technology & Tools</summary>
+## Technology & Tools
   
 | Tools | Technology |
 |-----:|-----------|
@@ -17,10 +16,10 @@ Hello, I am Seth SHarp. I'm a developer interested in web apps, open source proj
 | Stack Components | Node.js, Angular, Express, MongoDB, Postman |
 | Version Control  | Git, Github |
 
-</details>
-
 <details>
 <summary>Featured Projects</summary>
+
+These are a few of the projects I helped to build through my coursework at SNHU.
 
 | Name | Link |
 |-----:|---------------|
@@ -31,8 +30,3 @@ Hello, I am Seth SHarp. I'm a developer interested in web apps, open source proj
 
 ---
 > I am the wisest man alive, for I know one thing, and that is that I know nothing. - Plato
-
-<!---
-ssharp/ssharp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
